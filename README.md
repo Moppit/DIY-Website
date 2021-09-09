@@ -11,6 +11,10 @@ Note: this is not a guided workshop. It's a resource that you can fork from Gith
 
 - `index.html`: main page for every site -- the home page
 - `code-templates`: if you want to create a new page or add elements to your site, this folder contains useful code snippets to add to your working site.
+- `pages`: holds files for other pages on your website aside from your home page (i.e. about me, projects, etc)
+- `resources`: storing media/files that you'd like to display on your site (images, pdf of your resume, etc)
+- `scripts`: Javascript files (or other scripting files)
+- `styles`: stylesheets (i.e. CSS files)
 
 ## Viewing Your Site Locally
 You can open your website locally by just opening your HTML files in a browser. That usually means you can double click on the file in File Explorer/Finder; however, if that isn't working, you may need to right click on the file and open it in a specific browser. Every time you make a change, save your .html file, and then refresh the browser.
@@ -23,3 +27,25 @@ There are lots of hosting methods, however; not all of them are free. I recommen
 Want a custom URL? Check out [Namecheap](https://nc.me/), who gives one free URL per student!
 
 ## More Resources
+
+Want to learn/research more about web dev? Here are some resources/keywords to get you started!
+
+- Simple website with HTML/CSS/JS workshop: https://docs.microsoft.com/en-us/learn/modules/build-simple-website/
+- More comprehensive how-to build a website tutorial (W3Schools in general is a lifesaver when it comes to web dev!): https://www.w3schools.com/howto/howto_website.asp
+- Thorough HTML/CSS rundown: https://websitesetup.org/website-coding-html-css/
+- Learning Javascript: https://learnjavascript.online/
+- Popular Javascript Frontend Frameworks/Tools
+    - React
+    - Angular
+    - Vue
+    - JQuery
+- Popular Javascript Backend Frameworks/Tools
+    - NodeJS
+    - ExpressJS
+    - NextJS
+- Interested in writing web apps that translate to mobile apps as well? Check out React Native: https://reactnative.dev/
+
+
+**Note:** If you're interested in contributing common personal website tools/code snippets that you think will be helpful, by all means, please do! Just create a fork, make a pull request to merge in your changes, and reviewed changes will be added.
+
+Happy coding! ❤️

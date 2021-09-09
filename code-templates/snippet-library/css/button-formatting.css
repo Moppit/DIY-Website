@@ -1,0 +1,12 @@
+/* Formatting links */
+a {
+    color: #112d4e;
+}
+
+/* Formatting standard buttons */
+button {
+    color: blue;
+    background-color: yellow;
+    width: 4vw;
+    height: 4vw;
+}

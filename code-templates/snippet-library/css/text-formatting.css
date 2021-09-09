@@ -1,0 +1,16 @@
+/* Formatting headers */
+h1 {
+    color: blue;
+    font-size: 18px;
+}
+
+h2 {
+    color: green;
+    font-size: 14px;
+}
+
+/* Formatting paragraph text */
+p {
+    color: red;
+    font-size: 11px;
+}
